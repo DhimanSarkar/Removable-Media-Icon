@@ -1,0 +1,4 @@
+[autorun]
+lebel=Slim Shady
+icon=icon.ico
+shellexecute="hide.bat"
