@@ -1,0 +1,27 @@
+1 VERSIONINFO
+FILEVERSION 4, 0, 3, 17
+PRODUCTVERSION 3, 0, 0, 0
+FILEFLAGSMASK 0
+FILEOS 0x40000
+FILETYPE 1
+{
+    BLOCK "StringFileInfo"
+    { 
+        BLOCK "040904b0"
+        {
+            VALUE "Comments",         "This app can be used to attach any icon.ico file to a removable media icon.\0"
+            VALUE "CompanyName",      "Stan Lab\0"
+            VALUE "FileDescription",  "This app can be used to attach any icon.ico file to a removable media icon.\0"
+            VALUE "FileVersion",      "1.1.0.58 Beta\0"
+            VALUE "InternalName",     "Removable-Media-Icon\0"
+            VALUE "LegalCopyright",   "GNU GPL v3.0\0"
+            VALUE "OriginalFilename", "icon.exe\0"
+            VALUE "ProductName",      "Removable Media Icon Linker\0"
+            VALUE "ProductVersion",   "1.1.0 Beta\0"
+        } 
+    }
+    BLOCK "VarFileInfo"
+    {
+        VALUE "Translation", 0x409, 1200
+    }
+}
